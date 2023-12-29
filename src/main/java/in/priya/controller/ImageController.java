@@ -19,7 +19,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import in.priya.model.Image;
 import in.priya.repository.ImageRepository;
-
+// Controller Class
 @Controller
 public class ImageController {
 	
